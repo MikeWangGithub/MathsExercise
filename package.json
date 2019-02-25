@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "live-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "live-server ./ --port=8081"  
+     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeWangGithub/MathsExercise.git"
+  },
+  "author": "Mike.Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeWangGithub/MathsExercise/issues"
+  },
+  
+  "homepage": "https://github.com/MikeWangGithub/MathsExercise#readme"
+  
+}
